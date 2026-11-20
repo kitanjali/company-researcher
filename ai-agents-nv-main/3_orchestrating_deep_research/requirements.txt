@@ -1,0 +1,4 @@
+deepagents
+tavily-python
+langchain-nebius
+python-dotenv
